@@ -8,6 +8,7 @@ Purpose
 
 ## How to contribute 
 Contribute
+Please ork this repo
 
 ## Deployment
 Deployment
